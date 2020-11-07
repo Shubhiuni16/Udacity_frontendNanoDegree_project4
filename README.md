@@ -8,5 +8,5 @@ The goal of this project is to give you practice with:
 - Webpack Loaders and Plugins
 - Creating layouts and page design
 - Service workers
-- Using APIs and creating requests to external url
+- Using APIs and creating requests to external url.
 
